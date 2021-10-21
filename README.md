@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Weatherba0
 - 👀 I’m interested in Aeronautics, Mobile Applications, and Robotics
-- 🌱 I’m currently learning Python3, C, and have a good understanding of Java and Flutter (Dart)
-- 💞️ I’m looking to collaborate on Flutter mobile applications
+- 🌱 I’m currently learning C, and have a solid understanding of Java, Python 2.7 and 3, as well as Flutter (Dart)
+- 💞️ I’m looking to collaborate on Flutter mobile applications and web scraping applications
 - 📫 How to reach me ...
 
 <!---
